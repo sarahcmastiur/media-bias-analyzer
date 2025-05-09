@@ -1,6 +1,15 @@
 # media-bias-analyzer
 Media Bias Analyzer is a data-driven dashboard that helps users detect bias across news articles from major outlets including The Guardian, The New York Times, and Fox News. By leveraging structured data pipelines, sentiment analysis, and interactive filtering, this tool offers transparency into how the media frames topics in politics, education, and the environment.
 
+## Team Member
+
+- Maya Patel
+- Sara Shreim
+- Sarah Christine Mastiur
+- Suhasini Singh
+- Yifan Chen
+
+
 ##  Features
 
 - Bias Visualization: Compare tone and framing across media outlets by category and issue
